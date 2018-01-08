@@ -1,0 +1,12 @@
+{
+  "name": "babel-preset-styled-jsx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:satoshicano/babel-preset-styled-jsx.git",
+  "author": "satoshicano <satoshicano@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "styled-jsx": "^2.2.1"
+  }
+}
